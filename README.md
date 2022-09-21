@@ -8,5 +8,3 @@
 [x] saya akan mengupload vedeo pemakaian di youtube
 #Installation
 ```
-apt update && apt upgrade
-```
